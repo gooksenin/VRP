@@ -1,0 +1,26 @@
+{
+    "total_delivery_duration": 3742,
+    "routes": {
+        "1": {
+            "jobs": [
+                9,
+                3,
+                4,
+                7,
+                8,
+                5
+            ],
+            "delivery_duration": 3516
+        },
+        "2": {
+            "jobs": [],
+            "delivery_duration": 0
+        },
+        "3": {
+            "jobs": [
+                6
+            ],
+            "delivery_duration": 226
+        }
+    }
+}
